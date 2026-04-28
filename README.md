@@ -1,2 +1,2 @@
-# Proyecto-DMC-
+# Proyecto-DMC
 Proyecto DMC
